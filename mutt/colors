@@ -111,5 +111,3 @@ mono  body underline           "(^|[[:space:][:punct:]])_[^_]+_([[:space:][:punc
 
 # Border lines.
 color body blue default "( *[-+=#*~_]){6,}"
-
-
